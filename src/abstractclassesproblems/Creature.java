@@ -9,6 +9,6 @@ package abstractclassesproblems;
  *
  * @author Alyson
  */
-public interface interface2 extends abstract2 {
+public abstract class Creature implements Animal {
     
 }

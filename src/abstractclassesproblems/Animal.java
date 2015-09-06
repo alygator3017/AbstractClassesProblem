@@ -9,6 +9,6 @@ package abstractclassesproblems;
  *
  * @author Alyson
  */
-public abstract class abstract2 {
+public interface Animal extends LifeForm {
     
 }

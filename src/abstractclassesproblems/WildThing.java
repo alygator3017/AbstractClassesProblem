@@ -9,6 +9,6 @@ package abstractclassesproblems;
  *
  * @author Alyson
  */
-public class WildThing extends Abstract3 {
+public class WildThing extends WildCreature {
     
 }
