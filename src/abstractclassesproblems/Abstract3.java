@@ -9,6 +9,6 @@ package abstractclassesproblems;
  *
  * @author Alyson
  */
-public abstract class Abstract1 implements Interface2 {
+public abstract class Abstract3 extends Abstract2 {
     
 }
