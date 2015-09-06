@@ -9,6 +9,6 @@ package abstractclassesproblems;
  *
  * @author Alyson
  */
-public class WildThing implements Interface2 {
+public abstract class Abstract2 {
     
 }
