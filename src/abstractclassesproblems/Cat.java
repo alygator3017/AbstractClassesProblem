@@ -9,6 +9,6 @@ package abstractclassesproblems;
  *
  * @author Alyson
  */
-public interface LifeForm {
-    public abstract String eat();
+public class Cat {
+    
 }

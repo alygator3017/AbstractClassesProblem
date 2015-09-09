@@ -15,7 +15,20 @@ public class AbstractClassesProblems {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        WildThing wildThing = new WildThing();
+        String animal = wildThing.getAnimal();
+        Creature paul = new WildThing(23, "Paul", animal);
+        
+        System.out.println(paul.run(animal));
+        
+        
+        
+        
+
+        
     }
+
+    
     
 }

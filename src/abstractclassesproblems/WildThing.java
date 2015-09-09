@@ -9,6 +9,26 @@ package abstractclassesproblems;
  *
  * @author Alyson
  */
-public class WildThing extends WildCreature {
+public class WildThing extends Creature {
+    private final String animal = "WildThing";
+
+    
+    public WildThing(int age, String name, String animal) {
+        super(age, name, animal);
+    }
+    
+    public WildThing(){
+        
+    };
+
+
+    public String getAnimal() {
+        return animal;
+    }
+    
+    
+    
+    
+    
     
 }

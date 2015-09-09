@@ -10,5 +10,5 @@ package abstractclassesproblems;
  * @author Alyson
  */
 public interface Animal extends LifeForm {
-    
+    public String run(String animal);
 }
